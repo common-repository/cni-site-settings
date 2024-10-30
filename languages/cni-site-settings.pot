@@ -1,0 +1,149 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: CNI Site Settings\n"
+"POT-Creation-Date: 2016-11-28 10:44+0900\n"
+"PO-Revision-Date: 2016-04-05 16:45+0900\n"
+"Last-Translator: aki-t <info@aki-t.net>\n"
+"Language-Team: aki-t <info@aki-t.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cni-site-settings.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: cni-site-settings.php:27 cni-site-settings.php:82
+msgid "CNI Site Settings"
+msgstr ""
+
+#: cni-site-settings.php:50
+msgid "Please select the item of \"Major update\"."
+msgstr ""
+
+#: cni-site-settings.php:53
+msgid "Please select the item of \"Update Themes\"."
+msgstr ""
+
+#: cni-site-settings.php:56
+msgid "Please select the item of \"Update Plugins\"."
+msgstr ""
+
+#: cni-site-settings.php:59
+msgid "Please select the item of \"Autosave\"."
+msgstr ""
+
+#: cni-site-settings.php:62
+msgid "Please select the item of \"Use Visual editor\"."
+msgstr ""
+
+#: cni-site-settings.php:68
+msgid "Your settings have been saved."
+msgstr ""
+
+#: cni-site-settings.php:83
+msgid "Manage your site settings easily."
+msgstr ""
+
+#: cni-site-settings.php:109
+msgid "Major update"
+msgstr ""
+
+#: cni-site-settings.php:111
+msgid ""
+"In WordPress, Minor updates (Example:\"4.4.1\" to \"4.4.2\") is done "
+"automatically."
+msgstr ""
+
+#: cni-site-settings.php:112
+msgid ""
+"If you want to be done Major updates (Example:\"4.4.x\" to \"4.5\") too, "
+"please select \"Automatically\"."
+msgstr ""
+
+#: cni-site-settings.php:113 cni-site-settings.php:122
+#: cni-site-settings.php:131
+msgid "Default is \"Manually\"."
+msgstr ""
+
+#: cni-site-settings.php:116 cni-site-settings.php:125
+#: cni-site-settings.php:134
+msgid "Automatically"
+msgstr ""
+
+#: cni-site-settings.php:117 cni-site-settings.php:126
+#: cni-site-settings.php:135
+msgid "Manually"
+msgstr ""
+
+#: cni-site-settings.php:119
+msgid "Update Themes"
+msgstr ""
+
+#: cni-site-settings.php:121
+msgid ""
+"If you want to be done Themes' updates automatically, please select "
+"\"Automatically\"."
+msgstr ""
+
+#: cni-site-settings.php:128
+msgid "Update Plugins"
+msgstr ""
+
+#: cni-site-settings.php:130
+msgid ""
+"If you want to be done Plugins' updates automatically, please select "
+"\"Automatically\"."
+msgstr ""
+
+#: cni-site-settings.php:137
+msgid "Autosave"
+msgstr ""
+
+#: cni-site-settings.php:139
+msgid "If you want to cancel the editor's autosave, please select \"Off\"."
+msgstr ""
+
+#: cni-site-settings.php:140 cni-site-settings.php:149
+msgid "Default is \"On\"."
+msgstr ""
+
+#: cni-site-settings.php:143 cni-site-settings.php:152
+msgid "On"
+msgstr ""
+
+#: cni-site-settings.php:144 cni-site-settings.php:153
+msgid "Off"
+msgstr ""
+
+#: cni-site-settings.php:146
+msgid "Use the visual editor"
+msgstr ""
+
+#: cni-site-settings.php:148
+msgid "If you want to use the text editor only, please select \"Off\"."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/cni-site-settings/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "It makes easier to manege your site with this plugin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CYBER NETWORKS Inc."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://seo.cni.jp/"
+msgstr ""
